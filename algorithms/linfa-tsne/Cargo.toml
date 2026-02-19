@@ -15,7 +15,7 @@ categories = ["algorithms", "mathematics", "science"]
 
 [dependencies]
 thiserror = "2.0"
-ndarray = { version = "0.16" }
+ndarray = { version = "0.17" }
 bhtsne = { version = "0.5.4", default-features = false }
 
 linfa = { version = "0.8.1", path = "../.." }
