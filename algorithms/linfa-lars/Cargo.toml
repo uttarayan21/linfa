@@ -38,5 +38,5 @@ linfa-datasets = { version = "0.8.1", path = "../../datasets", features = [
     "diabetes",
 ] }
 approx = "0.5"
-ndarray-rand = "0.15"
+ndarray-rand = "0.16"
 rand_xoshiro = "0.6"
