@@ -22,7 +22,7 @@ linfa = { version = "0.8.1", path = "../.." }
 linfa-nn = { version = "0.8.1", path = "../linfa-nn" }
 
 [dev-dependencies]
-rand = "0.8"
+rand = "0.10"
 ndarray-rand = "0.15"
 approx = "0.5"
 
